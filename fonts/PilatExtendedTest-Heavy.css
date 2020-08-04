@@ -1,0 +1,12 @@
+/* Webfont: PilatExtendedTest-Heavy */@font-face {
+    font-family: 'PilatExtendedTestHeavy';
+    src: url('PilatExtendedTest-Heavy.eot'); /* IE9 Compat Modes */
+    src: url('PilatExtendedTest-Heavy.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('PilatExtendedTest-Heavy.woff') format('woff'), /* Modern Browsers */
+         url('PilatExtendedTest-Heavy.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('PilatExtendedTest-Heavy.svg#PilatExtendedTest-Heavy') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
